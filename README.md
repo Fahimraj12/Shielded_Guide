@@ -11,14 +11,14 @@ Shielded Guide is a Python library designed to provide robust security and priva
 
 5.Datasanitizer: This class sanitizes user input before storing it in a database or displaying it on a webpage.
 
-# File Structure
+# File Structure(Shieded_Guide)
 ###### |----AccessControl.py
 ###### |----Cipher.py
 ###### |----DataSanitizer.py
 ###### |----README.md
 ###### |----SecureLogger.py
 ###### |----auth_manager.py
-###### |----callback_sheildedguide.ipynb
+###### |----callback_shieldedguide.ipynb
 ###### |----lib.py
 
 CONTRIBUTER'S:
