@@ -17,6 +17,9 @@ Shielded Guide is a Python library designed to provide robust security and priva
 ###### |----DataSanitizer.py
 ###### |----README.md
 ###### |----SecureLogger.py
+###### |----auth_manager.py
+###### |----callback_sheildedguide.ipynb
+###### |----lib.py
 
 CONTRIBUTER'S:
 1. RAJ MO FAHIM ZAKIR           (23SS02IT161)
