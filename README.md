@@ -28,4 +28,5 @@ CONTRIBUTER'S:
 4. PATEL SUCHIT KALPESHBHAI     (23SS02IT139)
 
 ## Author:
-- Mo Fahim Raj
+**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
+
