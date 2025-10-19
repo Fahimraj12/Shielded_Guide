@@ -27,7 +27,7 @@ CONTRIBUTER'S:
 3. RAMANI BHAVY BIPINBHAI       (23SS02IT168)
 4. PATEL SUCHIT KALPESHBHAI     (23SS02IT139)
 
-## Author:
-**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
-
-## 2025@AllRights Reserved
+### 👨‍💻 Author
+- [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
+- 📧 [mofahimraj@gmail.com]
+- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
