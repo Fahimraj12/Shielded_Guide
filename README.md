@@ -24,8 +24,8 @@ Shielded Guide is a Python library designed to provide robust security and priva
 ### Getting Started (Run Locally)
 - Clone the repository
   ```bash
-  - git clone https://github.com/Fahimraj12/Threatre-Ticket-Booking-Site.git
-  - cd Threatre-Ticket-Booking-Sites
+  git clone https://github.com/Fahimraj12/Shielded_Guide.git
+  cd Shielded_Guide
 
 CONTRIBUTER'S:
 1. RAJ MO FAHIM ZAKIR           (23SS02IT161)
